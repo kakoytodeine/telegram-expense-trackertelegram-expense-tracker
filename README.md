@@ -1,1 +1,1 @@
-# telegram-expense-trackertelegram-expense-tracker
+# Телеграм‑бот для учёта расходов
